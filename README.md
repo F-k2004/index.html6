@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>🌤️ وضعیت آب‌وهوا</title>
   <style>
-    ody {
+    body {
       font-family: sans-serif;
       background: linear-gradient(135deg, #74ebd5, #ACB6E5);
       display: flex;
